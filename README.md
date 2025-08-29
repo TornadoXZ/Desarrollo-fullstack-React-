@@ -66,6 +66,8 @@ Aplicación desarrollada con Next.js para prácticas y aprendizaje de React y su
 2. Inicia el servidor de desarrollo:
 
    ```bash
+   # Ingreso a la ruta con cd a la carpeta "myreact"
+   # Despues inicio el servidor:
    npm run dev
    # o
    yarn dev
@@ -73,6 +75,7 @@ Aplicación desarrollada con Next.js para prácticas y aprendizaje de React y su
    pnpm dev
    # o
    bun dev
+
    ```
 
 3. Abre [http://localhost:3000](http://localhost:3000) en tu navegador para ver la aplicación.
