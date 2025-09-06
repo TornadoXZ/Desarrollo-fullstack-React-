@@ -49,6 +49,15 @@ Aplicación desarrollada con Next.js para prácticas y aprendizaje de React y su
   - Ejecución de efectos secundarios en respuesta a cambios en el estado.
   - Práctica de la reactividad y el ciclo de vida de los componentes en React.
 
+### Clase 4: Rutas, Navbar y Consumo de API
+
+- **Archivos trabajados:** `src/app/lista/page.jsx`, `src/app/productos/page.jsx`, `src/components/Navbar.jsx`
+- **Actividades realizadas:**
+  - Creación de nuevas carpetas y archivos para rutas: `app/lista/page.jsx` y `app/productos/page.jsx`.
+  - Implementación de un componente de navegación ([`Navbar`](src/components/Navbar.jsx)) para facilitar el acceso entre páginas.
+  - En `productos/page.jsx`, consumo de una API externa de productos de ropa utilizando `fetch` y renderizado dinámico de los productos en una cuadrícula.
+  - Práctica de renderizado condicional y uso de `useEffect` para manejar la lógica de obtención de datos.
+
 ---
 
 ## Instalación y Puesta en Marcha
